@@ -18,10 +18,8 @@ def get_links(news_website_link):
     links_to_news_page = list()
 
     for link in soup.find_all('a'):
-        if re.search('^http://news.yahoo.com/.*-[0-9][0-9][0-9][0-9]', link.get('href')):
-            links_to_news_page.append(link.get('href'))
-        if re.search('^/.*-[0-9][0-9][0-9][0-9]', link.get('href')):
-            links_to_news_page.append('http://news.yahoo.com'+link.get('href'))
+        if re.search('^/[0-9][0-9][0-9][0-9]', link.get('href')):
+            links_to_news_page.append('https://www.nytimes.com'+link.get('href'))
 
     print(links_to_news_page)
     return links_to_news_page
@@ -48,8 +46,12 @@ def get_n(text):
     tagged_tokens = nltk.pos_tag(tokens)
     nouns = [token[0] for token in tagged_tokens if token[1] in ['NN', 'NNS', 'NNP', 'NNPS']]
     frequency = nltk.FreqDist(nouns).most_common(100)
-    print(frequency)
-    return frequency
+    print(*frequency)
+    frequent_word = []
+    for p in frequency:
+        if len(p[0]) > 1:
+            frequent_word.append(p[0])
+    return frequent_word
 
 
 @app.route('/', methods=['POST', 'GET'])
