@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a793669-201d-4194-9f7d-b23d6dad330e" name="Default Changelist" comment="" />
+    <list default="true" id="5349179e-06d3-4cff-ac54-55f250f52201" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,15 +10,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1fwZbdqWfg3yQdxKSodRHUeH88g" />
+  <component name="ProjectId" id="1hOTtookVOZQyzHKJX3JBJjfY13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,32 +28,30 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/spider" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedToday" />
-      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedToday\webPage" />
-      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedToday\Spider" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedToday" />
+      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedTodayHopHacks\whatHappenedTodayHopHacks\static" />
+      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedTodayHopHacks\whatHappenedTodayHopHacks\" />
+      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedTodayHopHacks\whatHappenedTodayHopHacks\src\static" />
+      <recent name="C:\Users\totti\Documents\GitHub\whatHappenedTodayHopHacks\whatHappenedTodayHopHacks\src\main" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.bbc">
-    <configuration name="bbc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="whatHappenedToday" />
+  <component name="RunManager" selected="Python.main">
+    <configuration name="extract_all_news" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="whatHappenedTodayHopHacks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\totti\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bbc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_all_news.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,91 +60,53 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="nytimes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="whatHappenedToday" />
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="whatHappenedTodayHopHacks" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\totti\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="whatHappenedTodayHopHacks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\totti\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nytimes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tester (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="whatHappenedToday" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tester.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="whatHappenedToday" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\totti\Documents\GitHub\whatHappenedToday\tester.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in tester.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="whatHappenedToday" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spider" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tester.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.bbc" />
-        <item itemvalue="Python.tester (1)" />
-        <item itemvalue="Python.tester" />
-        <item itemvalue="Python tests.pytest in tester.py" />
-        <item itemvalue="Python.nytimes" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.extract_all_news" />
       </list>
     </recent_temporary>
   </component>
@@ -166,42 +127,54 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6a793669-201d-4194-9f7d-b23d6dad330e" name="Default Changelist" comment="" />
-      <created>1597131187938</created>
+      <changelist id="5349179e-06d3-4cff-ac54-55f250f52201" name="Default Changelist" comment="" />
+      <created>1599881356261</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597131187938</updated>
+      <updated>1599881356261</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="591" y="296" key="FileChooserDialogImpl" timestamp="1597139305621">
+    <state x="582" y="344" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599958782321">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state x="591" y="296" key="FileChooserDialogImpl/0.0.1620.1080@0.0.1620.1080" timestamp="1597139305621" />
-    <state width="1600" height="290" key="GridCell.Tab.0.bottom" timestamp="1598005879755">
+    <state x="582" y="344" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1620.1080@0.0.1620.1080" timestamp="1599958782321" />
+    <state x="529" y="156" key="#extract_all_news" timestamp="1599894730522">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1600" height="290" key="GridCell.Tab.0.bottom/0.0.1620.1080@0.0.1620.1080" timestamp="1598005879755" />
-    <state width="1600" height="290" key="GridCell.Tab.0.center" timestamp="1598005879755">
+    <state x="529" y="156" key="#extract_all_news/0.0.1620.1080@0.0.1620.1080" timestamp="1599894730522" />
+    <state x="529" y="156" key="#main" timestamp="1599952342691">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1600" height="290" key="GridCell.Tab.0.center/0.0.1620.1080@0.0.1620.1080" timestamp="1598005879755" />
-    <state width="1600" height="290" key="GridCell.Tab.0.left" timestamp="1598005879755">
+    <state x="529" y="156" key="#main/0.0.1620.1080@0.0.1620.1080" timestamp="1599952342691" />
+    <state x="529" y="156" key="#test" timestamp="1599896910056">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1600" height="290" key="GridCell.Tab.0.left/0.0.1620.1080@0.0.1620.1080" timestamp="1598005879755" />
-    <state width="1600" height="290" key="GridCell.Tab.0.right" timestamp="1598005879755">
+    <state x="529" y="156" key="#test/0.0.1620.1080@0.0.1620.1080" timestamp="1599896910056" />
+    <state width="1600" height="295" key="GridCell.Tab.0.bottom" timestamp="1599990424943">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1600" height="290" key="GridCell.Tab.0.right/0.0.1620.1080@0.0.1620.1080" timestamp="1598005879755" />
-    <state x="911" y="366" key="com.intellij.ide.util.TipDialog" timestamp="1597990567729">
+    <state width="1600" height="295" key="GridCell.Tab.0.bottom/0.0.1620.1080@0.0.1620.1080" timestamp="1599990424943" />
+    <state width="1600" height="295" key="GridCell.Tab.0.center" timestamp="1599990424942">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state x="911" y="366" key="com.intellij.ide.util.TipDialog/0.0.1620.1080@0.0.1620.1080" timestamp="1597990567729" />
-    <state x="878" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1597137391778">
+    <state width="1600" height="295" key="GridCell.Tab.0.center/0.0.1620.1080@0.0.1620.1080" timestamp="1599990424942" />
+    <state width="1600" height="295" key="GridCell.Tab.0.left" timestamp="1599990424942">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state x="878" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1620.1080@0.0.1620.1080" timestamp="1597137391778" />
+    <state width="1600" height="295" key="GridCell.Tab.0.left/0.0.1620.1080@0.0.1620.1080" timestamp="1599990424942" />
+    <state width="1600" height="295" key="GridCell.Tab.0.right" timestamp="1599990424943">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state width="1600" height="295" key="GridCell.Tab.0.right/0.0.1620.1080@0.0.1620.1080" timestamp="1599990424943" />
+    <state x="363" y="0" width="801" height="747" key="dock-window-1" timestamp="1599986758324">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="363" y="0" width="801" height="747" key="dock-window-1/0.0.1620.1080@0.0.1620.1080" timestamp="1599986758324" />
+    <state x="475" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1599985238671">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="475" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1620.1080@0.0.1620.1080" timestamp="1599985238671" />
   </component>
 </project>
